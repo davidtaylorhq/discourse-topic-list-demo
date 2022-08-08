@@ -1,0 +1,28 @@
+a {
+  text-decoration: none;
+}
+.topic-list{
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+td, th{
+  text-align: left;
+  padding: 5px;
+
+}
+
+th {
+  border-bottom: 1px solid #aaa;
+}
+
+h1 {
+  text-align: center;
+}
+
+.category-name {
+  color: #666; 
+  text-decoration: none;
+}
